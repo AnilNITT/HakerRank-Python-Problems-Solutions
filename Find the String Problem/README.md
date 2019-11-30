@@ -7,12 +7,16 @@ ABCDCDC
 CDC
 
 Sample Output:
+
 2
 
 
 Sample input:
+
 ininini
+
 ini
 
 Sample Output:
+
 3
